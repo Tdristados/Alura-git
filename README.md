@@ -7,3 +7,4 @@
 * En efecto, sí es código, ahora estoy editando desde Github y quiero bajar el comit en mi computadora
 * Ya pude revisar, y desde luego, sí pude descargar los commits hechos desde GitHub en mi computadora Local. Haciendo uso de ```git pull```.
 * Ahora debo crear una nueva branch llamada **Desarrollo**
+* Haciendo esta modificación en la rama **"Desarrollo"**, la idea es ver si la rama **Main** no ha sugrido cambio. 
